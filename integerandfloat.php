@@ -1,8 +1,9 @@
 <?php
 
-    $age = 24; // integer
-    $tall = 1.75; // float
+    $a = 24; // integer
+    $b = 1.75; // float
+    $c = "12.5";
 
-    echo $age + $tall;
+    echo $a + $b * $c;
 
 ?>
