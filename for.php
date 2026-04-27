@@ -17,7 +17,7 @@
         }
     }
     
-    for($i = 1; $i <= 10; $i++ ) {
+    for($i = 1; $i <= 20; $i++ ) {
         // echo "Hello World!<br>";
         // echo "Hari ke-$i <br>";
         if($i % 2 == 0) {
