@@ -1,0 +1,1 @@
+[{"nama":"Iqbal","prodi":"Informatika","lulus":2026},{"nama":"Rafli","prodi":"DKV","lulus":2024}]

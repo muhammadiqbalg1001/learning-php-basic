@@ -1,0 +1,1 @@
+a:2:{i:0;a:3:{s:4:"nama";s:5:"Iqbal";s:5:"prodi";s:11:"Informatika";s:5:"lulus";i:2026;}i:1;a:3:{s:4:"nama";s:5:"Rafli";s:5:"prodi";s:3:"DKV";s:5:"lulus";i:2024;}}
